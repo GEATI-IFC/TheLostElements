@@ -11,3 +11,4 @@ https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonab
 
 #4 Execute o arquivo "nw.exe". Em alguns instantes, a tela principal do jogo vai aparecer.
 
+.
